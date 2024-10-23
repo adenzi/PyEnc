@@ -1,8 +1,6 @@
 
 # Welcome to   _**[PyEnc](https://www.adenzi.xyz/PyEnc)**_.  
-A 
-
-***Portable*** And ***Secure*** File Encryptor and Decryptor With Password Protection Program  - Programmed Using **Python**.  
+A ***Portable*** And ***Secure*** File Encryptor and Decryptor With Password Protection Program  - Programmed Using **Python**.  
 The Most Secure Way To Encrypt Files With Passwords.
 
 
